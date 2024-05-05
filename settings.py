@@ -17,7 +17,7 @@ ASISTENT_LANGUAGE = 'ru-Ru' #ovozni tanish qaysi Rus yoki Ozbek tilida
 ASISTEN_SPEACH_LANGUAGE = 'ru' #qaysi tilda ovoz chiqarishi
 ASISTENT_GENDER = 'Famale' #Erkak yoki Ayol (Famale or Male)
 
-
+###
 #(User path files)
 #Filelar joylashgan joyini korsating
 PATH_MUSIK = "D:/musika"
